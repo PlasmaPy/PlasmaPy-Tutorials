@@ -1,6 +1,6 @@
 # Licenses
 
-All source code and software included in this project is licensed under the [BSD 3-clause license](#bsd-3-clause-license).  All other content is licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+All source code and software included in this project is licensed under the [BSD 3-clause license](#bsd-3-clause-license).  All other content is licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
 
 ## BSD 3-Clause License
 
