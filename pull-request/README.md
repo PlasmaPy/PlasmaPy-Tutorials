@@ -2,6 +2,8 @@
 This tutorial will walk you through how to request that someone else pulls your changes to their code into their project.
 This is called a **pull request**, usually abbreviated to PR.
 It is assumed that you are comfortable with using the fundamental git commands (`git add`, `git commit`, etc.) at a command prompt, and that you are familiar with pushing and pulling repositories to and from GitHub.
+If you are completely new to git, you may want to first find and go through a tutorial to learn these fundamental commands before continuing with this one. 
+https://try.github.io/ and https://git-scm.com/book/en/v1/Git-Basics are two such tutorials, but there are plenty of others out there.
 
 These are the steps necessary to make a PR, each of which will be described in more detail below:
 - Fork a repository
@@ -17,6 +19,7 @@ This will make a copy of that repo, and that copy belongs to you.
 
 ## Clone your fork of the repo
 On your fork of the repo (<_your-github-username_>/PlasmaPy-Tutorials), use the '**Clone or Download**' button to download the repo.
+Alternatively you can do this manually at the command line with the syntax `git clone https://github.com/<_your-github-username_>/<_name-of-repo_>.git` or `git clone <git@github.com:<_your-username_>/<_name-of-repo_>.git`.
 This is the same as you've done before with any of your other repos.
 
 #### Remotes
@@ -30,6 +33,8 @@ In this case the URL for the upstream remote would be https://github.com/PlasmaP
 
 ## Create a new branch in your local repo
 This step is not strictly necessary to make a PR, but is highly recommended as part of the git workflow in general, so we shall take the time to go through it here.
+You can do this with the command `git branch new_contributor` and then `git checkout new_contributor`.
+These commands are explained below.
 
 #### Branches
 Branches are a vital feature of git that allow different development tasks to be self-contained.
