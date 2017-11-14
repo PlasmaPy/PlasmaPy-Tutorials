@@ -98,3 +98,6 @@ Now I, or another maintainer of the original repo, have the option to accept or 
 
 - Drew Leonard (SolarDrew)
 - Felipe Nathan de Oliveira (felipenathan)
+- Nick Murphy (namurphy)
+- Bill Meyer (mfescience)
+- Tulasi Parashar (tulasinandan)
