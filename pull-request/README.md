@@ -97,4 +97,5 @@ Now I, or another maintainer of the original repo, have the option to accept or 
 ## Contributors
 
 - Drew Leonard (SolarDrew)
+- Bill Meyer (mfescience)
 - Tulasi Parashar (tulasinandan)
