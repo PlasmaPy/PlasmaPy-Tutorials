@@ -107,7 +107,9 @@ changes.
 
 When reviewing code, it is vital to provide constructive and helpful
 comments so that code review can become a positive experience for
-everyone.  
+everyone.  Eric Rose's presentation at PyCon 2017 provides several
+suggestions for [constructive code
+review](https://www.youtube.com/watch?v=iNG1a--SIlk).
 
 ## Contributors
 
