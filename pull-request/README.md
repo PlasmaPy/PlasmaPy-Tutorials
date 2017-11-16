@@ -94,6 +94,23 @@ This page also lets you give your PR a title and a description, which you should
 When you've added these, click the big green '**Create pull request**' button and you're done!
 Now I, or another maintainer of the original repo, have the option to accept or refuse the changes you've made to the code.
 
+## Reviewing pull requests
+
+GitHub allows users to review pull requests that others have
+submitted.  To begin reviewing code, select the '**pull request**' tab
+in the upstream repository followed by the specific pull request that
+you wish to review.  Select the '**Files changed**' tab to show what
+changes the pull request would make.  You may then select any changed
+line to add a single comment or start a review with multiple comments.
+You can also request changes or show your approval for the proposed
+changes.  
+
+When reviewing code, it is vital to provide constructive and helpful
+comments so that code review can become a positive experience for
+everyone.  Eric Rose's presentation at PyCon 2017 provides several
+suggestions for [constructive code
+review](https://www.youtube.com/watch?v=iNG1a--SIlk).
+
 ## Contributors
 
 - Drew Leonard (SolarDrew)
